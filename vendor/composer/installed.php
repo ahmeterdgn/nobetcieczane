@@ -3,7 +3,7 @@
         'name' => 'ahmeterdgn/nobetcieczane',
         'pretty_version' => 'dev-main',
         'version' => 'dev-main',
-        'reference' => '40ca5613cc723a939334cfbe9cfa884d2b9dc930',
+        'reference' => 'cc90e6a84169e7a0bd0536a41ca9e69d1e5a9dd2',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -13,7 +13,7 @@
         'ahmeterdgn/nobetcieczane' => array(
             'pretty_version' => 'dev-main',
             'version' => 'dev-main',
-            'reference' => '40ca5613cc723a939334cfbe9cfa884d2b9dc930',
+            'reference' => 'cc90e6a84169e7a0bd0536a41ca9e69d1e5a9dd2',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
