@@ -13,6 +13,10 @@
       "role": "Developer"
     }
   ],
+  "require": {
+    "php": ">=7.4",
+    "simplehtmldom/simplehtmldom": "2.0-RC2"
+  },
   "autoload": {
     "psr-4": {
       "eczane\\": "src/"

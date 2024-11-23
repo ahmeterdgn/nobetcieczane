@@ -5,7 +5,6 @@ namespace eczane;
  * @author Ahmet Erdoğan
  * @web https://uzmoon.com
  */
-require '../core/plugins/domparser/simple_html_dom.php';
 
 class EczaneScraper {
     private $city;
