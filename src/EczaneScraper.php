@@ -1,5 +1,5 @@
 <?php
-namespace eczane;
+namespace nobetcieczane;
 /**
  * Eczane Scraper Class
  * @author Ahmet Erdoğan
